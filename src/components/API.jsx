@@ -1,0 +1,1 @@
+export const local = 'https://translate-server-pghn.onrender.com/'
